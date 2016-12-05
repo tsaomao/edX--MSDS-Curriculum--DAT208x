@@ -14,4 +14,11 @@ In the Python documentation (https://docs.python.org/3/library/stdtypes.html#num
 You are learning Python 3 in this course. When going through Python Documentation, make sure that you're reading about Python 3, and not Python 2! The differences are not big, but can be hard to spot and confusing to new users.
 
 
+-----
+Further Readings for Chapter 2. List - A Data Structure:
+To get a deeper insight into Python lists, you can check out the official documentation on Data Structures (https://docs.python.org/3.5/tutorial/datastructures.html). If you don't understand everything in there (such as the append() method for example), don't worry: we'll get to that soon enough.
+
+At the end of the third video, Filip pointed out the difference between copying the list contents, or a reference to the list. He pointed out that this was only a simplified version of the story. If you're interested in the bigger picture, you can go through this documentation page (https://docs.python.org/3.5/library/copy.html).
+
+
 
