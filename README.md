@@ -21,4 +21,8 @@ To get a deeper insight into Python lists, you can check out the official docume
 At the end of the third video, Filip pointed out the difference between copying the list contents, or a reference to the list. He pointed out that this was only a simplified version of the story. If you're interested in the bigger picture, you can go through this documentation page (https://docs.python.org/3.5/library/copy.html).
 
 
+-----
+Further Readings for Chapter 3. Functions and Packages:
+Functions and methods are at the foundation of every Python program. The blogs, tutorials and documentation written about this topic is therefore huge. To get a concise yet detailed writeup about functions, you can head over to TutorialsPoint (http://www.tutorialspoint.com/python/python_functions.htm). Methods are very related to the Object Oriented Programming (OOP) in Python. To get a taste for that, you can check out this blogpost (https://www.jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/).
 
+To learn more about how packages (or modules) work under the hood, you can go through this documentation page (https://docs.python.org/3/tutorial/modules.html). It's a pretty technical read, but this will give you the bigger picture. If you want to take it to the next level: the page also tells you how to create your own modules and packages in Python.
