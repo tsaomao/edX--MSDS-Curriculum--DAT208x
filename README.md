@@ -26,3 +26,8 @@ Further Readings for Chapter 3. Functions and Packages:
 Functions and methods are at the foundation of every Python program. The blogs, tutorials and documentation written about this topic is therefore huge. To get a concise yet detailed writeup about functions, you can head over to TutorialsPoint (http://www.tutorialspoint.com/python/python_functions.htm). Methods are very related to the Object Oriented Programming (OOP) in Python. To get a taste for that, you can check out this blogpost (https://www.jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/).
 
 To learn more about how packages (or modules) work under the hood, you can go through this documentation page (https://docs.python.org/3/tutorial/modules.html). It's a pretty technical read, but this will give you the bigger picture. If you want to take it to the next level: the page also tells you how to create your own modules and packages in Python.
+
+
+-----
+Further Readings for Chapter 4. NumPy:
+As this entire module is centered around Numpy, short for Numeric Python, there's one resource you should definitely check out if you want to learn more: http://www.numpy.org/. You can read about the internal structure and workings of Numpy and about tons of other tools that haven't been discussed in this introductory course.
