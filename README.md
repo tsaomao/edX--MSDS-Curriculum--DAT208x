@@ -31,3 +31,10 @@ To learn more about how packages (or modules) work under the hood, you can go th
 -----
 Further Readings for Chapter 4. NumPy:
 As this entire module is centered around Numpy, short for Numeric Python, there's one resource you should definitely check out if you want to learn more: http://www.numpy.org/. You can read about the internal structure and workings of Numpy and about tons of other tools that haven't been discussed in this introductory course.
+
+
+-----
+Further Readings for Chapter 5. Plotting with Matplotlib:
+Matplotlib is not the only package to data visualization in Python. A great package is ggplot (http://ggplot.yhathq.com/), a port of a very popular R package to do visualization, ggplot2 (http://ggplot2.org/). It's based on the so-called grammar of graphics, a term coined by Leland Wilkinson, who wrote some amazing books on data visualization.
+
+Often, getting started with a visualization from scratch is very difficult. You'll typically want to base yourself on a beautiful example and then adapt that example to work with your own data and your customizations. You can find a ton of matplotlib examples in this gallery (http://matplotlib.org/1.5.1/gallery.html). Have a look at them before you start your own visualizations; it will save you a ton of time!
