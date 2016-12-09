@@ -38,3 +38,10 @@ Further Readings for Chapter 5. Plotting with Matplotlib:
 Matplotlib is not the only package to data visualization in Python. A great package is ggplot (http://ggplot.yhathq.com/), a port of a very popular R package to do visualization, ggplot2 (http://ggplot2.org/). It's based on the so-called grammar of graphics, a term coined by Leland Wilkinson, who wrote some amazing books on data visualization.
 
 Often, getting started with a visualization from scratch is very difficult. You'll typically want to base yourself on a beautiful example and then adapt that example to work with your own data and your customizations. You can find a ton of matplotlib examples in this gallery (http://matplotlib.org/1.5.1/gallery.html). Have a look at them before you start your own visualizations; it will save you a ton of time!
+
+
+-----
+Further Readings for Chapter 6. Control Flow and Pandas:
+The if-else construct is not the only control structure available in Python. There's also while and for, among others. If you want to read some more about all the control structures that Python features, have a look at this documentation page (https://docs.python.org/3.5/tutorial/controlflow.html). For an overview about comparators and boolean operators, you can check out another docs page (https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not).
+
+The community around Pandas is growing by the minute. As Pandas is a big thing in Python that's focussed on Data Science, there's a dedicated website (http://pandas.pydata.org/). There, you can read about the latest developments in Pandas and download several versions. The main author of Pandas, Wes McKinney, also included a great 10-minute video explaining the basics about Pandas.
